@@ -30,15 +30,7 @@ border: 1px solid black;
  float:left;
  border: 1px solid black;
 }
-  .t1 {
-  width: 33.3%
-  }
-  .t2 {
-  widht: 66.6%
-  }
-  .t3 {
-  width: 100%
-  }
+}
 @media (min-width: 768px) and (max-width: 991px) {
 
  float:left
