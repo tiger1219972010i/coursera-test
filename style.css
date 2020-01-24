@@ -8,9 +8,6 @@ margin-bottom: 15px;
 border: 1px solid black;
 background-color: gray;
 }
-.row {
-  width: 100%;
-}
 
 @media (min-width: 992px) {
   .column {
