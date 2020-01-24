@@ -11,13 +11,22 @@ background-color: gray;
 .row {
   width: 100%;
 }
+
 @media (min-width: 992px) {
-  .col-1, .col-2, .col-3 {
-    float:left;
-    border: 1px solid black;
+  .column {
+  float: left;
+  width: 33.3%
   }
 }
 @media (min-width: 768px) and (max-width: 991px) {
+  .column {
+  float: left;
+  width: 50%
+  }
 }
 @media (max-width: 767px) {
+  .column {
+  float: left;
+  width: 100%
+  }
 }
