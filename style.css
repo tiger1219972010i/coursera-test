@@ -1,7 +1,7 @@
-.h1 {
-margin-bottom: 15px;
+* {
+  box-sizing: border-box;
 }
-.row {
+.h1 {
 margin-bottom: 15px;
 }
 .row < div {
