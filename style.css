@@ -5,9 +5,16 @@ h1 {
   margin-bottom: 15px;
 }
 .t1 {
-  background-color:
-  width:
-  height:
+  border: 1px solid black;
+  background-color: pink;
+}
+.t2 {
+border: 1px solid black;
+  background-color: purple;
+}
+.t3 {
+border: 1px solid black;
+  background-color: red;
 }
 .row {
   width: 100%;
